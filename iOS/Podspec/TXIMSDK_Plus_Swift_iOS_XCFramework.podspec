@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |spec|
   spec.name         = 'TXIMSDK_Plus_Swift_iOS_XCFramework'
   spec.version      = '7.8.5483'
